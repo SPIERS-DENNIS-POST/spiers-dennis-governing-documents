@@ -1,24 +1,24 @@
-<p align="center">Spiers – Dennis Post #24,<br>
-The American Legion<br>
-Department of Colorado</p>
+Spiers – Dennis Post #24,
+The American Legion
+Department of Colorado
 
-<p align="center">CONSTITUTION</p>
+CONSTITUTION
 
-> Historical transcription — pending verification. Transcribed from pages 1–2 of the [signed scanned Constitution and By-Laws](sources/2004-signed-constitution-and-bylaws.pdf). The scan records amendments accepted January 22, 2002 and November 23, 2004. This text does not independently establish the currently governing version. The signed scan controls if this transcription differs from it. The attestation and signatures remain preserved in the scan.
+Historical transcription — pending verification. Transcribed from pages 1–2 of the signed scanned Constitution and By-Laws (sources/2004-signed-constitution-and-bylaws.pdf). The scan records amendments accepted January 22, 2002 and November 23, 2004. This text does not independently establish the currently governing version. The signed scan controls if this transcription differs from it. The attestation and signatures remain preserved in the scan.
 
-<p align="center">PREAMBLE</p>
+PREAMBLE
 
 For God and Country, we associate ourselves together for the following purposes: To uphold and defend the Constitution of the United States of America; to maintain law and order; to foster and perpetuate a one hundred percent Americanism; to preserve the memories and incidents of our association in the Great Wars; to inculcate a sense of individual obligation to the community, state and nation; to combat the autocracy of both the classes and the masses; to make right the master of might; to promote peace and good will on earth; to safeguard and transmit to posterity the principles of justice, freedom, and democracy; to consecrate and sanctify our comradeship by our devotion to mutual helpfulness.
 
-<p align="center">ARTICLE I – NAME</p>
+ARTICLE I – NAME
 
 SECTION 1: The name of this organization is Spiers – Dennis Post #24, The American Legion, Department of Colorado.
 
-<p align="center">ARTICLE II – OBJECTIVES</p>
+ARTICLE II – OBJECTIVES
 
 SECTION 1: The objectives and purposes of this Post shall be to promote the principles and policies as set forth in the foregoing Preamble, and the National and Departmental Constitutions of the American Legion.
 
-<p align="center">ARTICLE III – NATURE</p>
+ARTICLE III – NATURE
 
 SECTION 1: This Post is a civilian organization and membership therein does not affect or increase liability for military or police service.
 
@@ -26,7 +26,7 @@ SECTION 2: This organization shall be absolutely non-political and shall not be 
 
 SECTION 3: Rank does not exist in the American Legion; no member shall be addressed by his military or naval title in any meeting of this Post.
 
-<p align="center">ARTICLE IV – MEMBERSHIP</p>
+ARTICLE IV – MEMBERSHIP
 
 SECTION1: Eligibility for membership in this Post shall be as prescribed by the National Constitution of the American Legion.
 
@@ -42,7 +42,7 @@ SECTION 5: A member who has been expelled or suspended from this Post for any ca
 SECTION 6: No person who has been expelled by a post shall be admitted to membership in this Post without the consent of the expelling Post, except when such consent has been asked for and denied by the expelling Post.
 The applicant for reinstatement may then appeal to the state Executive Committee of the Department of the expelling Post for permission to apply for membership in this Post, and shall be ineligible for membership until such permission is granted
 
-<p align="center">ARTICLE V – OFFICERS</p>
+ARTICLE V – OFFICERS
 
 SECTION 1: The administrative affairs of this Post of The American Legion shall, except as may be otherwise provided by the Post By-Laws, be under the supervision of an Executive Committee, which shall consist of three members in addition to the officers of the Post.
 The term of office of members of the Executive Committee shall be for one year.
@@ -57,7 +57,7 @@ SECTION 4: Every member of the Post in good standing shall be eligible to hold o
 
 SECTION 5: The duties of Officers and Executive Committeemen of this Post shall be those usually appertaining to such officers or committeemen and as further provided in the Post By-Laws.
 
-<p align="center">ARTICLE VI – FINANCE</p>
+ARTICLE VI – FINANCE
 
 SECTION 1: The revenue of this Post shall be derived from membership or initiation fees, from annual membership dues and from such other sources as may be approved by the Post Executive Committee.
 
@@ -65,7 +65,7 @@ SECTION 2: The amount of such membership or initiation fees and the amount of su
 
 SECTION 3: The Post shall pay to Departmental headquarters the National and Departmental annual membership dues for every member of the Post.
 
-<p align="center">ARTICLE VII – AMERICAN LEGION AUXILIARIES</p>
+ARTICLE VII – AMERICAN LEGION AUXILIARIES
 
 SECTION 1: AMERICAN LEGION AUXILIARY. This Post recognizes an auxiliary organization, known as Unit 24, The American Legion Auxiliary, Department of Colorado.
 Membership therein shall be limited to persons declared eligible therefor by the National Constitution of The American Legion.
@@ -73,7 +73,7 @@ Membership therein shall be limited to persons declared eligible therefor by the
 SECTION 2: SONS OF THE AMERICAN LEGION. This Post recognizes an auxiliary organization, known as Squadron 24, Sons of The American Legion.
 Membership therein shall be limited to persons declared eligible therefor by the Constitution and By-Laws of the Sons of The American Legion.
 
-<p align="center">ARTICLE VIII – AMENDMENTS</p>
+ARTICLE VIII – AMENDMENTS
 
 SECTION 1: This Constitution is adopted subject to the provisions of the national Constitution of The American Legion and of the Department Constitution of the Department of Colorado, The American Legion.
 Any amendment to said National Constitution or Department Constitution which is in conflict with any provisions hereof shall be regarded as automatically repealing or modifying the provisions of this Constitution to the extent of such conflict.
@@ -82,11 +82,10 @@ SECTION 2: This Constitution may be amended at any regular meeting by vote of tw
 
 As amended and accepted 22 January 2002, and further amended and accepted 23 November 2004.
 
-> Transcription note: The names below are provisional readings of the handwritten signatures on page 2 of the [signed scan](sources/2004-signed-constitution-and-bylaws.pdf). Text in double brackets with a question mark is uncertain. This transcription is not an electronic signature, a new approval, or a certification of adoption. The signed scan remains the source for verification.
+Transcription note: The names below are provisional readings of the handwritten signatures on page 2 of the signed scan (sources/2004-signed-constitution-and-bylaws.pdf). Text in double brackets with a question mark is uncertain. This transcription is not an electronic signature, a new approval, or a certification of adoption. The signed scan remains the source for verification.
 
-<table width="100%">
-<tr>
-<td width="50%">[[Robert L. Bradley?]]&emsp;Post Commander<br>Date Signed: 12/1/04</td>
-<td width="50%">Phyllis W. [[Moore?]]&emsp;Post Adjutant<br>Date Signed: Dec. 01, 2004</td>
-</tr>
-</table>
+[[Robert L. Bradley?]]  Post Commander
+Date Signed: 12/1/04
+
+Phyllis W. [[Moore?]]  Post Adjutant
+Date Signed: Dec. 01, 2004
