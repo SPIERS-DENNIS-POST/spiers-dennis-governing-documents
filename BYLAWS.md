@@ -1,42 +1,44 @@
-# Bylaws
+Spiers – Dennis Post #24,  
+The American Legion  
+Department of Colorado
 
-Spiers–Dennis Post #24, The American Legion, Department of Colorado
+# BY-LAWS
 
 > **Historical transcription — pending verification.** Transcribed from pages 3–5 of the [signed scanned Constitution and By-Laws](sources/2004-signed-constitution-and-bylaws.pdf). The scan records amendments accepted January 22, 2002 and November 23, 2004. This text does not independently establish the currently governing version. The signed scan controls if this transcription differs from it. The attestation and signatures remain preserved in the scan.
 
-## Article I
+## ARTICLE I
 
-**Section 1:** The Post existing under these By-Laws is to be known as Spiers–Dennis Post #24, The American Legion, Department of Colorado.
+**SECTION 1:** The Post existing under these By-Laws is to be known as Spiers – Dennis Post #24, The American Legion, Department of Colorado.
 
-**Section 2:** The objects of this Post are set forth in the Constitution.
+**SECTION 2:** The objects of this Post are set forth in the Constitution.
 
-## Article II — Management
+## ARTICLE II – MANAGEMENT
 
-**Section 1:** The government and management of the Post is entrusted to an Executive Committee of at least 12 members, to be known as the “Executive Committee”.
+**SECTION 1:** The government and management of the Post is entrusted to an Executive Committee of at least 12 members, to be known as the “Executive Committee”.
 
-**Section 2:** The Executive Committee shall consist of three members of the Post in addition to the officers of the Post, and, together with the officers of the Post, shall be elected annually on the fourth Tuesday in May and take office at the meeting next following the election, except for the Judge Advocate and the Post Service Officer who shall be appointed by the Post Commander.
+**SECTION 2:** The Executive Committee shall consist of three members of the Post in addition to the officers of the Post, and, together with the officers of the Post, shall be elected annually on the fourth Tuesday in May and take office at the meeting next following the election, except for the Judge Advocate and the Post Service Officer who shall be appointed by the Post Commander.
 All elections of officers and executive committeemen shall be by ballot and the candidate or candidates receiving the highest number of votes shall be elected to the respective office or offices for which they are candidates.
 
-**Section 3:** All vacancies existing on the Executive Committee, or in any office of the Post, from any cause other than expiration of term, shall immediately be filled by appointment by the Post Commander, and a person so appointed shall hold office for the remaining portion of the term of the Committeeman or Officer whom he succeeded.
+**SECTION 3:** All vacancies existing on the Executive Committee, or in any office of the Post, from any cause other than expiration of term, shall immediately be filled by appointment by the Post Commander, and a person so appointed shall hold office for the remaining portion of the term of the Committeeman or Officer whom he succeeded.
 A vacancy shall exist when a new or additional member position is created by Post vote, or when a member is absent from his post for a continuous period considered detrimental to the interest of the Post by the Executive Committee.
 
-## Article III — Post Executive Committee
+## ARTICLE III – POST EXECUTIVE COMMITTEE
 
-**Section 1:** The Post Executive Committee shall meet for organization and such other business as may come before it at the call of the Post Commander within ten days after the installation of the new officers.
+**SECTION 1:** The Post Executive Committee shall meet for organization and such other business as may come before it at the call of the Post Commander within ten days after the installation of the new officers.
 Thereafter, the Post executive Committee shall meet as the Post Commander may deem necessary.
 The commander shall call a meeting of the Post Executive Committee upon the joint written request of three or more members of said Post Executive Committee, five members of the committee shall constitute a quorum thereof.
 
-**Section 2:** The Post Executive Committee shall: (1) hire such employees as may be deemed necessary, (2) authorize and approve all Post expenditures, (3) require adequate bonds from all persons having access to Post funds, (4) hear reports of Post Committee Chairmen, (5) have general charge of and be responsible for the management and affairs of the Post.
+**SECTION 2:** The Post Executive Committee shall: (1) hire such employees as may be deemed necessary, (2) authorize and approve all Post expenditures, (3) require adequate bonds from all persons having access to Post funds, (4) hear reports of Post Committee Chairmen, (5) have general charge of and be responsible for the management and affairs of the Post.
 
-## Article IV — Duties of Officers
+## ARTICLE IV – DUTIES OF OFFICERS
 
-**Section 1: Duties of Post Commander.** It shall be the duty of the Post Commander to preside at all meetings of the Post and to have general supervision over the business and affairs of the Post, and such officer shall be the chief executive officer of the Post.
+**SECTION 1: DUTIES OF POST COMMANDER.** It shall be the duty of the Post Commander to preside at all meetings of the Post and to have general supervision over the business and affairs of the Post, and such officer shall be the chief executive officer of the Post.
 The Commander shall approve all orders directing the disbursement of funds and shall make an annual report covering the business of the Post for the year, and recommendations for the ensuing year, which shall be read at the annual meeting and a copy thereof forwarded to the Department adjutant.
 The Commander shall perform such other duties as directed by the Post.
 
-**Section 2: Duties of Vice-Commander.** The vice-commander shall assume and discharge the duties of the office of commander in the absence or disability of, or when called upon by the Post Commander.
+**SECTION 2: DUTIES OF VICE-COMMANDER.** The vice-commander shall assume and discharge the duties of the office of commander in the absence or disability of, or when called upon by the Post Commander.
 
-**Section 3: Duties of Post Adjutant.** The adjutant shall have charge of and keep a full and correct record of all proceedings of all meetings, keep such records as the Department and National Organization may require, render reports of membership annually or when called upon at a meeting, and under direction of the commander handle all correspondence of the Post.
+**SECTION 3: DUTIES OF POST ADJUTANT.** The adjutant shall have charge of and keep a full and correct record of all proceedings of all meetings, keep such records as the Department and National Organization may require, render reports of membership annually or when called upon at a meeting, and under direction of the commander handle all correspondence of the Post.
 
 **Section 4: Duties of the Finance Officer.** The finance officer of the Post shall have charge of all finances and see that they are all safely deposited in some local bank or banks and shall report once a month to the Executive Committee the condition of the finances of the Post, with such recommendations as he may deem necessary or expedient for raising funds with which to carry on the activities of the Post.
 The Finance Officer shall sign checks disbursing the monies of the Post, and shall furnish such surety bonds in such sum as shall be fixed by the Post Executive Committee.
