@@ -97,8 +97,9 @@ As amended and accepted 22 January 2002, and further amended and accepted 23 Nov
 
 > Transcription note: The names below are provisional readings of the handwritten signatures on page 5 of the [signed scan](sources/2004-signed-constitution-and-bylaws.pdf). Text in double brackets with a question mark is uncertain. This transcription is not an electronic signature, a new approval, or a certification of adoption. The signed scan remains the source for verification.
 
-Post Commander: [[Robert L. Bradley?]]  
-12/1/04 (dated)
-
-Post Adjutant: Phyllis W. [[Moore?]]  
-Dec. 01, 2004 (dated)
+<table width="100%">
+<tr>
+<td width="50%">[[Robert L. Bradley?]]&emsp;Post Commander<br>12/1/04 (dated)</td>
+<td width="50%">Phyllis W. [[Moore?]]&emsp;Post Adjutant<br>Dec. 01, 2004 (dated)</td>
+</tr>
+</table>
