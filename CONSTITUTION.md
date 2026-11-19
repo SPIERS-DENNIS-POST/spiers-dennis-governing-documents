@@ -1,44 +1,46 @@
-# Constitution
+Spiers – Dennis Post #24,  
+The American Legion  
+Department of Colorado
 
-Spiers–Dennis Post #24, The American Legion, Department of Colorado
+# CONSTITUTION
 
 > **Historical transcription — pending verification.** Transcribed from pages 1–2 of the [signed scanned Constitution and By-Laws](sources/2004-signed-constitution-and-bylaws.pdf). The scan records amendments accepted January 22, 2002 and November 23, 2004. This text does not independently establish the currently governing version. The signed scan controls if this transcription differs from it. The attestation and signatures remain preserved in the scan.
 
-## Preamble
+## PREAMBLE
 
 For God and Country, we associate ourselves together for the following purposes: To uphold and defend the Constitution of the United States of America; to maintain law and order; to foster and perpetuate a one hundred percent Americanism; to preserve the memories and incidents of our association in the Great Wars; to inculcate a sense of individual obligation to the community, state and nation; to combat the autocracy of both the classes and the masses; to make right the master of might; to promote peace and good will on earth; to safeguard and transmit to posterity the principles of justice, freedom, and democracy; to consecrate and sanctify our comradeship by our devotion to mutual helpfulness.
 
-## Article I — Name
+## ARTICLE I – NAME
 
-**Section 1:** The name of this organization is Spiers–Dennis Post #24, The American Legion, Department of Colorado.
+**SECTION 1:** The name of this organization is Spiers – Dennis Post #24, The American Legion, Department of Colorado.
 
-## Article II — Objectives
+## ARTICLE II – OBJECTIVES
 
-**Section 1:** The objectives and purposes of this Post shall be to promote the principles and policies as set forth in the foregoing Preamble, and the National and Departmental Constitutions of the American Legion.
+**SECTION 1:** The objectives and purposes of this Post shall be to promote the principles and policies as set forth in the foregoing Preamble, and the National and Departmental Constitutions of the American Legion.
 
-## Article III — Nature
+## ARTICLE III – NATURE
 
-**Section 1:** This Post is a civilian organization and membership therein does not affect or increase liability for military or police service.
+**SECTION 1:** This Post is a civilian organization and membership therein does not affect or increase liability for military or police service.
 
-**Section 2:** This organization shall be absolutely non-political and shall not be used for the dissemination of partisan principles nor for the promotion of the candidacy of any person seeking public office or preferment.
+**SECTION 2:** This organization shall be absolutely non-political and shall not be used for the dissemination of partisan principles nor for the promotion of the candidacy of any person seeking public office or preferment.
 
-**Section 3:** Rank does not exist in the American Legion; no member shall be addressed by his military or naval title in any meeting of this Post.
+**SECTION 3:** Rank does not exist in the American Legion; no member shall be addressed by his military or naval title in any meeting of this Post.
 
-## Article IV — Membership
+## ARTICLE IV – MEMBERSHIP
 
-**Section 1:** Eligibility for membership in this Post shall be as prescribed by the National Constitution of the American Legion.
+**SECTION1:** Eligibility for membership in this Post shall be as prescribed by the National Constitution of the American Legion.
 
-**Section 2:** Application for membership shall be made in writing under such regulations as may from time to time be prescribed by the Post Executive Committee.
+**SECTION 2:** Application for membership shall be made in writing under such regulations as may from time to time be prescribed by the Post Executive Committee.
 
-**Section 3:** All applications for membership shall be acted upon at the next Post meeting following the making of such application, and shall at such meeting, be accepted, rejected or referred for further investigation and consideration.
+**SECTION 3:** All applications for membership shall be acted upon at the next Post meeting following the making of such application, and shall at such meeting, be accepted, rejected or referred for further investigation and consideration.
 If a majority of the members present cast their vote against the acceptance of said membership application, such application shall be recorded as rejected.
 
-**Section 4:** Any member of this Post may be expelled for cause by a two-thirds vote of the Executive Committee after charges are preferred under oath in writing and a fair trial had upon the same.
+**SECTION 4:** Any member of this Post may be expelled for cause by a two-thirds vote of the Executive Committee after charges are preferred under oath in writing and a fair trial had upon the same.
 
-**Section 5:** A member who has been expelled or suspended from this Post for any cause may be reinstated by a two-thirds vote of the membership present in the Post meeting during which reinstatement is applied for, and the payment of current dues for the year in which the reinstatement occurs.
+**SECTION 5:** A member who has been expelled or suspended from this Post for any cause may be reinstated by a two-thirds vote of the membership present in the Post meeting during which reinstatement is applied for, and the payment of current dues for the year in which the reinstatement occurs.
 
-**Section 6:** No person who has been expelled by a post shall be admitted to membership in this Post without the consent of the expelling Post, except when such consent has been asked for and denied by the expelling Post.
-The applicant for reinstatement may then appeal to the state Executive Committee of the Department of the expelling Post for permission to apply for membership in this Post, and shall be ineligible for membership until such permission is granted.
+**SECTION 6:** No person who has been expelled by a post shall be admitted to membership in this Post without the consent of the expelling Post, except when such consent has been asked for and denied by the expelling Post.
+The applicant for reinstatement may then appeal to the state Executive Committee of the Department of the expelling Post for permission to apply for membership in this Post, and shall be ineligible for membership until such permission is granted
 
 ## Article V — Officers
 
