@@ -42,46 +42,44 @@ If a majority of the members present cast their vote against the acceptance of s
 **SECTION 6:** No person who has been expelled by a post shall be admitted to membership in this Post without the consent of the expelling Post, except when such consent has been asked for and denied by the expelling Post.
 The applicant for reinstatement may then appeal to the state Executive Committee of the Department of the expelling Post for permission to apply for membership in this Post, and shall be ineligible for membership until such permission is granted
 
-## Article V — Officers
+## ARTICLE V – OFFICERS
 
-**Section 1:** The administrative affairs of this Post of The American Legion shall, except as may be otherwise provided by the Post By-Laws, be under the supervision of an Executive Committee, which shall consist of three members in addition to the officers of the Post.
+**SECTION 1:** The administrative affairs of this Post of The American Legion shall, except as may be otherwise provided by the Post By-Laws, be under the supervision of an Executive Committee, which shall consist of three members in addition to the officers of the Post.
 The term of office of members of the Executive Committee shall be for one year.
 This Post, by its By-Laws, may provide for such other standing committees as the business of the organization may require.
 
-**Section 2:** The officers of this Post shall be a Commander, Vice Commander, Adjutant, Finance Officer, Post Historian, Post Chaplain, Sergeant-at Arms, Judge Advocate, and Post Service Officer, and such other officers as may be deemed necessary by this organization, who shall be nominated from the floor at the meeting preceding the annual election, except for the Judge Advocate and Post Service Officer, who shall be appointed by the Post Commander.
+**SECTION 2:** The officers of this Post shall be a Commander, Vice Commander, Adjutant, Finance Officer, Post Historian, Post Chaplain, Sergeant-at Arms, Judge Advocate, and Post Service Officer, and such other officers as may be deemed necessary by this organization, who shall be nominated from the floor at the meeting preceding the annual election, except for the Judge Advocate and Post Service Officer, who shall be appointed by the Post Commander.
 
-**Section 3:** All officers and Executive Committeemen shall be elected annually and hold office until their successors are duly installed or as otherwise provided.
+**SECTION 3:** All officers and Executive Committeemen shall be elected annually and hold office until their successors are duly installed or as otherwise provided.
 Any Officer or Executive Committeeman may be removed for inefficiency by a two-thirds vote of the Executive Committee.
 
-**Section 4:** Every member of the Post in good standing shall be eligible to hold office in this Post.
+**SECTION 4:** Every member of the Post in good standing shall be eligible to hold office in this Post.
 
-**Section 5:** The duties of Officers and Executive Committeemen of this Post shall be those usually appertaining to such officers or committeemen and as further provided in the Post By-Laws.
+**SECTION 5:** The duties of Officers and Executive Committeemen of this Post shall be those usually appertaining to such officers or committeemen and as further provided in the Post By-Laws.
 
-## Article VI — Finance
+## ARTICLE VI – FINANCE
 
-**Section 1:** The revenue of this Post shall be derived from membership or initiation fees, from annual membership dues and from such other sources as may be approved by the Post Executive Committee.
+**SECTION 1:** The revenue of this Post shall be derived from membership or initiation fees, from annual membership dues and from such other sources as may be approved by the Post Executive Committee.
 
-**Section 2:** The amount of such membership or initiation fees and the amount of such annual Post dues shall be determined and fixed by the Post.
+**SECTION 2:** The amount of such membership or initiation fees and the amount of such annual Post dues shall be determined and fixed by the Post.
 
-**Section 3:** The Post shall pay to Departmental headquarters the National and Departmental annual membership dues for every member of the Post.
+**SECTION 3:** The Post shall pay to Departmental headquarters the National and Departmental annual membership dues for every member of the Post.
 
-## Article VII — American Legion Auxiliaries
+## ARTICLE VII – AMERICAN LEGION AUXILIARIES
 
-**Section 1: American Legion Auxiliary.** This Post recognizes an auxiliary organization, known as Unit 24, The American Legion Auxiliary, Department of Colorado.
+**SECTION 1: AMERICAN LEGION AUXILIARY.** This Post recognizes an auxiliary organization, known as Unit 24, The American Legion Auxiliary, Department of Colorado.
 Membership therein shall be limited to persons declared eligible therefor by the National Constitution of The American Legion.
 
-**Section 2: Sons of the American Legion.** This Post recognizes an auxiliary organization, known as Squadron 24, Sons of The American Legion.
+**SECTION 2: SONS OF THE AMERICAN LEGION.** This Post recognizes an auxiliary organization, known as Squadron 24, Sons of The American Legion.
 Membership therein shall be limited to persons declared eligible therefor by the Constitution and By-Laws of the Sons of The American Legion.
 
-## Article VIII — Amendments
+## ARTICLE VIII – AMENDMENTS
 
-**Section 1:** This Constitution is adopted subject to the provisions of the national Constitution of The American Legion and of the Department Constitution of the Department of Colorado, The American Legion.
+**SECTION 1:** This Constitution is adopted subject to the provisions of the national Constitution of The American Legion and of the Department Constitution of the Department of Colorado, The American Legion.
 Any amendment to said National Constitution or Department Constitution which is in conflict with any provisions hereof shall be regarded as automatically repealing or modifying the provisions of this Constitution to the extent of such conflict.
 
-**Section 2:** This Constitution may be amended at any regular meeting by vote of two-thirds of the members of said Post attending such regular meeting, providing the proposed amendment shall have been submitted in writing and read at the next preceding regular meeting of said Post, and providing, further, written notice shall have been given to all members at least ten days in advance of the date when such amendment is to be voted upon, notifying said members that at such meeting a proposal to amend the Constitution is to be voted upon.
-
-## Historical attestation
+**SECTION 2:** This Constitution may be amended at any regular meeting by vote of two-thirds of the members of said Post attending such regular meeting, providing the proposed amendment shall have been submitted in writing and read at the next preceding regular meeting of said Post, and providing, further, written notice shall have been given to all members at least ten days in advance of the date when such amendment is to be voted upon, notifying said members that at such meeting a proposal to amend the Constitution is to be voted upon.
 
 As amended and accepted 22 January 2002, and further amended and accepted 23 November 2004.
 
-The Post Commander and Post Adjutant signatures and handwritten dates are preserved on page 2 of the [original signed scan](sources/2004-signed-constitution-and-bylaws.pdf). This paragraph documents the historical scan; it is not a new approval or certification.
+> **Transcription note:** The Post Commander and Post Adjutant signatures and handwritten dates are preserved on page 2 of the [original signed scan](sources/2004-signed-constitution-and-bylaws.pdf). This paragraph documents the historical scan; it is not a new approval or certification.
