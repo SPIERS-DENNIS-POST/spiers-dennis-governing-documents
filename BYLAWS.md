@@ -40,44 +40,44 @@ The Commander shall perform such other duties as directed by the Post.
 
 **SECTION 3: DUTIES OF POST ADJUTANT.** The adjutant shall have charge of and keep a full and correct record of all proceedings of all meetings, keep such records as the Department and National Organization may require, render reports of membership annually or when called upon at a meeting, and under direction of the commander handle all correspondence of the Post.
 
-**Section 4: Duties of the Finance Officer.** The finance officer of the Post shall have charge of all finances and see that they are all safely deposited in some local bank or banks and shall report once a month to the Executive Committee the condition of the finances of the Post, with such recommendations as he may deem necessary or expedient for raising funds with which to carry on the activities of the Post.
+**SECTION 4: DUTIES OF THE FINANCE OFFICER.** The finance officer of the Post shall have charge of all finances and see that they are all safely deposited in some local bank or banks and shall report once a month to the Executive Committee the condition of the finances of the Post, with such recommendations as he may deem necessary or expedient for raising funds with which to carry on the activities of the Post.
 The Finance Officer shall sign checks disbursing the monies of the Post, and shall furnish such surety bonds in such sum as shall be fixed by the Post Executive Committee.
 
-**Section 5: Duties of Post Historian.** The Post historian shall be charged with the individual records and incidents of the Post and Post members, and shall perform such other duties as may properly pertain to the office as may be determined by the Post or the Executive Committee.
+**SECTION 5: DUTIES OF POST HISTORIAN.** The Post historian shall be charged with the individual records and incidents of the Post and Post members, and shall perform such other duties as may properly pertain to the office as may be determined by the Post or the Executive Committee.
 
-**Section 6: Duties of Post Chaplain.** The Post chaplain shall be charged with the spiritual welfare of the Post comrades and will offer divine but nonsectarian service in the event of dedications, funerals, public functions, etc., adhere to such ceremonial rituals as are recommended by the National or Department headquarters from time to time.
+**SECTION 6: DUTIES OF POST CHAPLAIN.** The Post chaplain shall be charged with the spiritual welfare of the Post comrades and will offer divine but nonsectarian service in the event of dedications, funerals, public functions, etc., adhere to such ceremonial rituals as are recommended by the National or Department headquarters from time to time.
 
-**Section 7: Duties of Post Sergeant-at-Arms.** The sergeant-at-arms shall preserve order at meetings and shall perform such other duties as may from time to time be assigned by the Post Executive Committee, or Post Commander.
+**SECTION 7: DUTIES OF POST SERGEANT-AT-ARMS.** The sergeant-at-arms shall preserve order at meetings and shall perform such other duties as may from time to time be assigned by the Post Executive Committee, or Post Commander.
 
-## Article V — Delegates
+## ARTICLE V – DELEGATES
 
-**Section 1:** Delegates and alternates to a Department convention shall be elected by ballot by the Post at a regular meeting of the Post to be held at least 20 days prior to the date of such convention.
+**SECTION 1:** Delegates and alternates to a Department convention shall be elected by ballot by the Post at a regular meeting of the Post to be held at least 20 days prior to the date of such convention.
 
-## Article VI — Appointments
+## ARTICLE VI – APPOINTMENTS
 
-**Section 1:** The Post Commander may appoint standing committees as needed.
+**SECTION 1:** The Post Commander may appoint standing committees as needed.
 
-## Article VII — Resolutions
+## ARTICLE VII – RESOLUTIONS
 
-**Section 1:** All resolutions of state or national scope presented to this Post by a member or reported to this Post by a committee shall merely embody the opinion of this Post on the subject and copy of same shall be forwarded to the Department headquarters for its approval before any publicity is given or action other than mere passage by the Post is taken.
+**SECTION 1:** All resolutions of state or national scope presented to this Post by a member or reported to this Post by a committee shall merely embody the opinion of this Post on the subject and copy of same shall be forwarded to the Department headquarters for its approval before any publicity is given or action other than mere passage by the Post is taken.
 
-## Article VIII — Meetings
+## ARTICLE VIII – MEETINGS
 
-**Section 1:** The regular meetings of this Post shall be held at the Post on the 4th Tuesday of each month at 7:00 p.m. during which the Post shall transact such business as may properly be brought up for action; such meetings may be converted into entertainment meetings, as may be deemed advisable by the officers of the Post.
+**SECTION 1:** The regular meetings of this Post shall be held at the Post on the 4<sup>th</sup> Tuesday of each month at 7:00 p.m. during which the Post shall transact such business as may properly be brought up for action; such meetings may be converted into entertainment meetings, as may be deemed advisable by the officers of the Post.
 
-**Section 2:** The Post commander or a majority of the Executive Committee shall have power to call a special meeting of the Post at any time.
+**SECTION 2:** The Post commander or a majority of the Executive Committee shall have power to call a special meeting of the Post at any time.
 
-**Section 3:** Upon the written request of 20 members, the Executive Committee shall call a special meeting of the Post.
+**SECTION 3:** Upon the written request of 20 members, the Executive Committee shall call a special meeting of the Post.
 
-**Section 4:** Ten members shall constitute a quorum.
+**SECTION 4:** Ten members shall constitute a quorum.
 
-## Article IX — Notices
+## ARTICLE IX – NOTICES
 
-**Section 1:** Every member shall furnish the Post Adjutant with his or her address for mailing.
+**SECTION 1:** Every member shall furnish the Post Adjutant with his or her address for mailing.
 
-**Section 2:** The Post Adjutant shall cause notice of the annual election to be given at least two weeks prior thereto.
+**SECTION 2:** The Post Adjutant shall cause notice of the annual election to be given at least two weeks prior thereto.
 
-## Article X — Rules of Order
+## ARTICLE X – RULES OF ORDER
 
 **Section 1:** All proceedings of Post meetings shall be conducted under and pursuant to Robert’s Rules of Order, except as herein otherwise provided.
 
