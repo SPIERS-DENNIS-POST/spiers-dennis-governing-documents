@@ -82,4 +82,10 @@ Any amendment to said National Constitution or Department Constitution which is 
 
 As amended and accepted 22 January 2002, and further amended and accepted 23 November 2004.
 
-> **Transcription note:** The Post Commander and Post Adjutant signatures and handwritten dates are preserved on page 2 of the [original signed scan](sources/2004-signed-constitution-and-bylaws.pdf). This paragraph documents the historical scan; it is not a new approval or certification.
+> **Transcription note:** The names below are provisional readings of the handwritten signatures on page 2 of the [signed scan](sources/2004-signed-constitution-and-bylaws.pdf). Text in double brackets with a question mark is uncertain. This transcription is not an electronic signature, a new approval, or a certification of adoption. The signed scan remains the source for verification.
+
+**Post Commander:** [[Robert L. Bradley?]]  
+**Date Signed:** 12/1/04
+
+**Post Adjutant:** Phyllis W. [[Moore?]]  
+**Date Signed:** Dec. 01, 2004
