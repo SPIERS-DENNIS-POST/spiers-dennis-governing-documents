@@ -79,22 +79,26 @@ The Finance Officer shall sign checks disbursing the monies of the Post, and sha
 
 ## ARTICLE X – RULES OF ORDER
 
-**Section 1:** All proceedings of Post meetings shall be conducted under and pursuant to Robert’s Rules of Order, except as herein otherwise provided.
+**SECTION 1:** All proceedings of Post meetings shall be conducted under and pursuant to Robert’s Rules of Order, except as herein otherwise provided.
 
-## Article XI — Limitations of Liabilities
+## ARTICLE XI – LIMITATIONS OF LIABILITIES
 
-**Section 1:** This Post shall incur, or cause to be incurred, no liability nor obligation whatever which shall subject to liability any other Post, subdivision, members of The American Legion, or other individuals, corporations or organizations.
+**SECTION 1:** This Post shall incur, or cause to be incurred, no liability nor obligation whatever which shall subject to liability any other Post, subdivision, members of The American Legion, or other individuals, corporations or organizations.
 
-## Article XII — Amendments
+## ARTICLE XII – AMENDMENTS
 
-**Section 1:** These By-Laws may be amended at any regular Post meeting by a vote of two-thirds of the members attending such regular meeting, provided that the proposed amendment shall have been submitted in writing and read at the next preceding regular Post meeting, and provided, further, that written notice notifying said members that at such meeting a proposal to amend the By-Laws is to be voted upon shall have been postmarked and mailed to all members at least ten days in advance of the date of the meeting during which such amendment is to be voted upon.
+**SECTION 1:** These By-Laws may be amended at any regular Post meeting by a vote of two-thirds of the members attending such regular meeting, provided that the proposed amendment shall have been submitted in writing and read at the next preceding regular Post meeting, and provided, further, that written notice notifying said members that at such meeting a proposal to amend the By-Laws is to be voted upon shall have been postmarked and mailed to all members at least ten days in advance of the date of the meeting during which such amendment is to be voted upon.
 
-## Article XIII — Disposition of Funds and Assets Upon Dissolution
+## ARTICLE XIII – DISPOSITION OF FUNDS AND ASSETS UPON DISSOLUTION
 
-**Section 1:** Upon dissolution of Spiers–Dennis Post #24, The American Legion, all remaining funds and assets of the Post are to be remitted and turned over forthwith to The American Legion, Department of Colorado to be held and administered according to its By-Laws, specifically Article IV, Section 2 of the By-Laws of The American Legion, Department of Colorado, as now constituted.
-
-## Historical attestation
+**SECTION 1:** Upon dissolution of Spiers – Dennis Post #24, The American Legion, all remaining funds and assets of the Post are to be remitted and turned over forthwith to The American Legion, Department of Colorado to be held and administered according to its By-Laws, specifically Article IV, Section 2 of the By-Laws of The American Legion, Department of Colorado, as now constituted.
 
 As amended and accepted 22 January 2002, and further amended and accepted 23 November 2004.
 
-The Post Commander and Post Adjutant signatures and handwritten dates are preserved on page 5 of the [original signed scan](sources/2004-signed-constitution-and-bylaws.pdf). This paragraph documents the historical scan; it is not a new approval or certification.
+> **Transcription note:** The names below are provisional readings of the handwritten signatures on page 5 of the [signed scan](sources/2004-signed-constitution-and-bylaws.pdf). Text in double brackets with a question mark is uncertain. This transcription is not an electronic signature, a new approval, or a certification of adoption. The signed scan remains the source for verification.
+
+**Post Commander:** [[Robert L. Bradley?]]  
+12/1/04 (dated)
+
+**Post Adjutant:** Phyllis W. [[Moore?]]  
+Dec. 01, 2004 (dated)
