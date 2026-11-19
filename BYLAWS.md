@@ -1,18 +1,18 @@
-<p align="center">Spiers – Dennis Post #24,<br>
-The American Legion<br>
-Department of Colorado</p>
+Spiers – Dennis Post #24,
+The American Legion
+Department of Colorado
 
-<p align="center">BY-LAWS</p>
+BY-LAWS
 
-> Historical transcription — pending verification. Transcribed from pages 3–5 of the [signed scanned Constitution and By-Laws](sources/2004-signed-constitution-and-bylaws.pdf). The scan records amendments accepted January 22, 2002 and November 23, 2004. This text does not independently establish the currently governing version. The signed scan controls if this transcription differs from it. The attestation and signatures remain preserved in the scan.
+Historical transcription — pending verification. Transcribed from pages 3–5 of the signed scanned Constitution and By-Laws (sources/2004-signed-constitution-and-bylaws.pdf). The scan records amendments accepted January 22, 2002 and November 23, 2004. This text does not independently establish the currently governing version. The signed scan controls if this transcription differs from it. The attestation and signatures remain preserved in the scan.
 
-<p align="center">ARTICLE I</p>
+ARTICLE I
 
 SECTION 1: The Post existing under these By-Laws is to be known as Spiers – Dennis Post #24, The American Legion, Department of Colorado.
 
 SECTION 2: The objects of this Post are set forth in the Constitution.
 
-<p align="center">ARTICLE II – MANAGEMENT</p>
+ARTICLE II – MANAGEMENT
 
 SECTION 1: The government and management of the Post is entrusted to an Executive Committee of at least 12 members, to be known as the “Executive Committee”.
 
@@ -22,7 +22,7 @@ All elections of officers and executive committeemen shall be by ballot and the 
 SECTION 3: All vacancies existing on the Executive Committee, or in any office of the Post, from any cause other than expiration of term, shall immediately be filled by appointment by the Post Commander, and a person so appointed shall hold office for the remaining portion of the term of the Committeeman or Officer whom he succeeded.
 A vacancy shall exist when a new or additional member position is created by Post vote, or when a member is absent from his post for a continuous period considered detrimental to the interest of the Post by the Executive Committee.
 
-<p align="center">ARTICLE III – POST EXECUTIVE COMMITTEE</p>
+ARTICLE III – POST EXECUTIVE COMMITTEE
 
 SECTION 1: The Post Executive Committee shall meet for organization and such other business as may come before it at the call of the Post Commander within ten days after the installation of the new officers.
 Thereafter, the Post executive Committee shall meet as the Post Commander may deem necessary.
@@ -30,7 +30,7 @@ The commander shall call a meeting of the Post Executive Committee upon the join
 
 SECTION 2: The Post Executive Committee shall: (1) hire such employees as may be deemed necessary, (2) authorize and approve all Post expenditures, (3) require adequate bonds from all persons having access to Post funds, (4) hear reports of Post Committee Chairmen, (5) have general charge of and be responsible for the management and affairs of the Post.
 
-<p align="center">ARTICLE IV – DUTIES OF OFFICERS</p>
+ARTICLE IV – DUTIES OF OFFICERS
 
 SECTION 1: DUTIES OF POST COMMANDER. It shall be the duty of the Post Commander to preside at all meetings of the Post and to have general supervision over the business and affairs of the Post, and such officer shall be the chief executive officer of the Post.
 The Commander shall approve all orders directing the disbursement of funds and shall make an annual report covering the business of the Post for the year, and recommendations for the ensuing year, which shall be read at the annual meeting and a copy thereof forwarded to the Department adjutant.
@@ -49,21 +49,21 @@ SECTION 6: DUTIES OF POST CHAPLAIN. The Post chaplain shall be charged with the 
 
 SECTION 7: DUTIES OF POST SERGEANT-AT-ARMS. The sergeant-at-arms shall preserve order at meetings and shall perform such other duties as may from time to time be assigned by the Post Executive Committee, or Post Commander.
 
-<p align="center">ARTICLE V – DELEGATES</p>
+ARTICLE V – DELEGATES
 
 SECTION 1: Delegates and alternates to a Department convention shall be elected by ballot by the Post at a regular meeting of the Post to be held at least 20 days prior to the date of such convention.
 
-<p align="center">ARTICLE VI – APPOINTMENTS</p>
+ARTICLE VI – APPOINTMENTS
 
 SECTION 1: The Post Commander may appoint standing committees as needed.
 
-<p align="center">ARTICLE VII – RESOLUTIONS</p>
+ARTICLE VII – RESOLUTIONS
 
 SECTION 1: All resolutions of state or national scope presented to this Post by a member or reported to this Post by a committee shall merely embody the opinion of this Post on the subject and copy of same shall be forwarded to the Department headquarters for its approval before any publicity is given or action other than mere passage by the Post is taken.
 
-<p align="center">ARTICLE VIII – MEETINGS</p>
+ARTICLE VIII – MEETINGS
 
-SECTION 1: The regular meetings of this Post shall be held at the Post on the 4<sup>th</sup> Tuesday of each month at 7:00 p.m. during which the Post shall transact such business as may properly be brought up for action; such meetings may be converted into entertainment meetings, as may be deemed advisable by the officers of the Post.
+SECTION 1: The regular meetings of this Post shall be held at the Post on the 4th Tuesday of each month at 7:00 p.m. during which the Post shall transact such business as may properly be brought up for action; such meetings may be converted into entertainment meetings, as may be deemed advisable by the officers of the Post.
 
 SECTION 2: The Post commander or a majority of the Executive Committee shall have power to call a special meeting of the Post at any time.
 
@@ -71,35 +71,34 @@ SECTION 3: Upon the written request of 20 members, the Executive Committee shall
 
 SECTION 4: Ten members shall constitute a quorum.
 
-<p align="center">ARTICLE IX – NOTICES</p>
+ARTICLE IX – NOTICES
 
 SECTION 1: Every member shall furnish the Post Adjutant with his or her address for mailing.
 
 SECTION 2: The Post Adjutant shall cause notice of the annual election to be given at least two weeks prior thereto.
 
-<p align="center">ARTICLE X – RULES OF ORDER</p>
+ARTICLE X – RULES OF ORDER
 
 SECTION 1: All proceedings of Post meetings shall be conducted under and pursuant to Robert’s Rules of Order, except as herein otherwise provided.
 
-<p align="center">ARTICLE XI – LIMITATIONS OF LIABILITIES</p>
+ARTICLE XI – LIMITATIONS OF LIABILITIES
 
 SECTION 1: This Post shall incur, or cause to be incurred, no liability nor obligation whatever which shall subject to liability any other Post, subdivision, members of The American Legion, or other individuals, corporations or organizations.
 
-<p align="center">ARTICLE XII – AMENDMENTS</p>
+ARTICLE XII – AMENDMENTS
 
 SECTION 1: These By-Laws may be amended at any regular Post meeting by a vote of two-thirds of the members attending such regular meeting, provided that the proposed amendment shall have been submitted in writing and read at the next preceding regular Post meeting, and provided, further, that written notice notifying said members that at such meeting a proposal to amend the By-Laws is to be voted upon shall have been postmarked and mailed to all members at least ten days in advance of the date of the meeting during which such amendment is to be voted upon.
 
-<p align="center">ARTICLE XIII – DISPOSITION OF FUNDS AND ASSETS UPON DISSOLUTION</p>
+ARTICLE XIII – DISPOSITION OF FUNDS AND ASSETS UPON DISSOLUTION
 
 SECTION 1: Upon dissolution of Spiers – Dennis Post #24, The American Legion, all remaining funds and assets of the Post are to be remitted and turned over forthwith to The American Legion, Department of Colorado to be held and administered according to its By-Laws, specifically Article IV, Section 2 of the By-Laws of The American Legion, Department of Colorado, as now constituted.
 
 As amended and accepted 22 January 2002, and further amended and accepted 23 November 2004.
 
-> Transcription note: The names below are provisional readings of the handwritten signatures on page 5 of the [signed scan](sources/2004-signed-constitution-and-bylaws.pdf). Text in double brackets with a question mark is uncertain. This transcription is not an electronic signature, a new approval, or a certification of adoption. The signed scan remains the source for verification.
+Transcription note: The names below are provisional readings of the handwritten signatures on page 5 of the signed scan (sources/2004-signed-constitution-and-bylaws.pdf). Text in double brackets with a question mark is uncertain. This transcription is not an electronic signature, a new approval, or a certification of adoption. The signed scan remains the source for verification.
 
-<table width="100%">
-<tr>
-<td width="50%">[[Robert L. Bradley?]]&emsp;Post Commander<br>12/1/04 (dated)</td>
-<td width="50%">Phyllis W. [[Moore?]]&emsp;Post Adjutant<br>Dec. 01, 2004 (dated)</td>
-</tr>
-</table>
+[[Robert L. Bradley?]]  Post Commander
+12/1/04 (dated)
+
+Phyllis W. [[Moore?]]  Post Adjutant
+Dec. 01, 2004 (dated)
