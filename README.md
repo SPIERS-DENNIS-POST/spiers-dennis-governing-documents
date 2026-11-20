@@ -1,8 +1,8 @@
-# Spiers–Dennis Post 24 — Governing Documents
+# Spiers–Dennis Post 24: Governing Documents
 
-**Transcription status: complete and checked against the signed historical source. Governing status: a 2004 baseline pending incorporation of known later amendments.**
+Transcription status: complete and checked against the signed historical source. Governing status: a 2004 baseline pending incorporation of known later amendments.
 
-This repository maintains a public-facing, version-controlled record of the Constitution, Bylaws, and Standard Operating Procedures of Spiers–Dennis Post #24, The American Legion, Department of Colorado. At this checkpoint, the Constitution and Bylaws files reproduce the signed historical documents reflecting amendments accepted January 22, 2002, and November 23, 2004. Later Post amendments are known to exist, but their adopted wording and supporting records have not yet been assembled and incorporated here. Consequently, the current files must **not** be treated as a complete statement of all governing provisions presently in force.
+This repository maintains a public-facing, version-controlled record of the Constitution, Bylaws, and Standard Operating Procedures of Spiers–Dennis Post #24, The American Legion, Department of Colorado. At this checkpoint, the Constitution and Bylaws files reproduce the signed historical documents reflecting amendments accepted January 22, 2002, and November 23, 2004. Later Post amendments are known to exist, but their adopted wording and supporting records have not yet been assembled and incorporated here. Consequently, the current files must not be treated as a complete statement of all governing provisions presently in force.
 
 ## Constitution and Bylaws
 
@@ -27,13 +27,13 @@ SHA-256 of current source PDF (structurally repaired; scan content unchanged): `
 
 ## Amendments and transcription corrections
 
-**Amendments are made by the Post, not by GitHub.** Members introduce motions and the Post considers and votes on them under the applicable Constitution, Bylaws, Robert's Rules of Order, and higher governing requirements. Participation in Post governance does not require GitHub.
+Amendments are made by the Post, not by GitHub. Members introduce motions and the Post considers and votes on them under the applicable Constitution, Bylaws, Robert's Rules of Order, and higher governing requirements. Participation in Post governance does not require GitHub.
 
 Changes to `CONSTITUTION.txt` and `BYLAWS.txt` going forward are to be proposed through pull requests. A pull request should distinguish:
 
-- **Transcription correction:** Corrects a mismatch between the TXT wording and the historical source or adopted amendment record it is intended to reproduce. Identify the source document, relevant page or section, and exact discrepancy. Correcting transcription does not itself amend the underlying governing document.
-- **Adopted amendment:** Incorporates wording actually approved through the applicable Post procedure. Cite the motion, official minutes or resolution, adopting meeting date, effective date where applicable, and exact adopted wording. Keep restricted personal information out of public pull-request discussions.
-- **Pending proposal:** May be discussed or drafted in a pull request, but remains unmerged until the Post has adopted the change under the applicable procedure. Opening a pull request does not put a motion before the Post or approve it.
+- Transcription correction: Corrects a mismatch between the TXT wording and the historical source or adopted amendment record it is intended to reproduce. Identify the source document, relevant page or section, and exact discrepancy. Correcting transcription does not itself amend the underlying governing document.
+- Adopted amendment: Incorporates wording actually approved through the applicable Post procedure. Cite the motion, official minutes or resolution, adopting meeting date, effective date where applicable, and exact adopted wording. Keep restricted personal information out of public pull-request discussions.
+- Pending proposal: May be discussed or drafted in a pull request, but remains unmerged until the Post has adopted the change under the applicable procedure. Opening a pull request does not put a motion before the Post or approve it.
 
 The maintainer reviews the source evidence and confirms that the proposed TXT change reproduces the actual correction or adopted amendment before merging into `main`. The pull-request diff and Git history preserve the change and its context. Earlier text remains available in the repository history. Significant checkpoints may be identified with Git tags or releases.
 
